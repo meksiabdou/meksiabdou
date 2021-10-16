@@ -17,7 +17,7 @@
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=meksiabdou&count_private=true&show_icons=true&theme=dracula" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=meksiabdou&count_private=true&show_icons=true&theme=dracula&border_radius=0&hide_border=true&include_all_commits=true" />
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meksiabdou&layout=compact&theme=dracula)](https://github.com/meksiabdou/github-readme-stats)-->
 
