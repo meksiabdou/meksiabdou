@@ -19,7 +19,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meksiabdou&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meksiabdou&layout=compact&theme=dracula)](https://github.com/meksiabdou/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meksiabdou&layout=compact&theme=dracula)](https://github.com/meksiabdou/github-readme-stats)-->
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b567d339-92da-4bb1-988b-de8c1cb1e6ab/4e24bd18-bf08-47e8-815e-4c0b5139c52a.png" /></a>
 
 ### 🤝🏻&nbsp;Contact 🤝🏻
 <br/>
