@@ -679,7 +679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badges/awesome-badges</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated collection of awesome things related to status badges</div>
@@ -732,7 +732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-native-community/directory</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A searchable and filterable directory of React Native libraries.</div>
@@ -1010,7 +1010,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jun 2025, 22:15:49 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2025, 23:17:58 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
