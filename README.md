@@ -6,15 +6,15 @@ I'm a javascript developer from Algeria 🇩🇿, passionate about building beau
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=meksiabdou&style=for-the-badge&color=blue)
 
-## 💼 Skills
+## 💼 Skills & Technologies
 
-- 💻 JavaScript
-- ⚛️ React / React Native
-- 🔥 Next.js
-- 🖥️ Node.js (Backend)
-- 🎨 Bootstrap
+- <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" width="32" /> JavaScript
+- <img src="https://skillicons.dev/icons?i=react&theme=dark" width="16" /> React / React Native
+- <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="16" /> Next.js
+- <img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark" width="32" /> Node.js (Backend)
+- <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="16" /> Bootstrap
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 
 <p>
@@ -27,6 +27,7 @@ I'm a javascript developer from Algeria 🇩🇿, passionate about building beau
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=meksiabdou&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🧩 GitHub Metrics Dashboard
 
 <img src="https://github.com/meksiabdou/meksiabdou/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
@@ -52,7 +53,7 @@ I'm a javascript developer from Algeria 🇩🇿, passionate about building beau
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Web Hosting](https://img.shields.io/badge/Hosting-Web-4E4E4E?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
-## 🌐 Connect with me
+## 📫 Let's Connect
 
 <br/>
 <a href="https://www.facebook.com/meksiabdou"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
