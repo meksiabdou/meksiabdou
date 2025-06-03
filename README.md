@@ -19,7 +19,9 @@ I'm a javascript developer from Algeria 🇩🇿, passionate about building beau
 
 <p>
   <img width="360px" src="https://github-readme-stats.vercel.app/api?username=meksiabdou&show_icons=true&theme=radical" alt="meksiabdou's GitHub Stats" />
+  <br/>
   <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meksiabdou&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
   <img width="360px" src="https://github-readme-streak-stats.herokuapp.com?user=meksiabdou&theme=radical&hide_border=false" width="100%" alt="meksiabdou's GitHub Stats" />
 </p>
 
