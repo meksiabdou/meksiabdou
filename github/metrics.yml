@@ -46,3 +46,7 @@ jobs:
           # نظرة عامة على الريبو
           plugin_repositories: yes
           plugin_repositories_pinned: 4
+
+          # 🔥 npm packages widget
+          plugin_npm: yes
+          plugin_npm_user: meksiabdou
