@@ -790,7 +790,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fullcalendar/fullcalendar</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Full-sized drag &amp; drop event calendar in JavaScript</div>
@@ -1076,7 +1076,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2025, 09:21:17 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2025, 10:17:22 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
