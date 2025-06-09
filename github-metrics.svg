@@ -740,7 +740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-native-community/directory</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A searchable and filterable directory of React Native libraries.</div>
@@ -1079,7 +1079,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jun 2025, 22:17:17 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2025, 23:17:43 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
