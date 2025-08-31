@@ -792,7 +792,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamkun/dayjs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API</div>
@@ -845,7 +845,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JairajJangle/react-native-navigation-mode</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Detect Android navigation mode (3-button, 2-button, or gesture navigation)</div>
@@ -898,7 +898,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michalchudziak/react-native-geolocation</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Geolocation APIs for React Native</div>
@@ -951,7 +951,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kesha-antonov/react-native-zoom-reanimated</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zoom component on react-native + react-native-reanimated + react-native-gesture-handler</div>
@@ -1149,7 +1149,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2025, 19:22:19 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 20:13:10 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
