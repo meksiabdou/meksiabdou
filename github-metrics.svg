@@ -797,7 +797,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamkun/dayjs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API</div>
@@ -850,7 +850,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JairajJangle/react-native-navigation-mode</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Detect Android navigation mode (3-button, 2-button, or gesture navigation)</div>
@@ -903,7 +903,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michalchudziak/react-native-geolocation</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Geolocation APIs for React Native</div>
@@ -1009,7 +1009,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huextrat/react-native-rate-app</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native module for In App Rating on Android and iOS</div>
@@ -1141,7 +1141,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2025, 07:25:15 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2025, 08:16:40 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
