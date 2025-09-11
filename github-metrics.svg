@@ -913,7 +913,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectdiscovery/nuclei</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</div>
@@ -966,7 +966,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zoontek/react-native-navigation-bar</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native StatusBar long-lost twin: A component to control your Android app's navigation bar.</div>
@@ -1019,7 +1019,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huextrat/react-native-screenshot-aware</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native module for real-time screenshot detection on Android and iOS</div>
@@ -1164,7 +1164,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2025, 16:16:55 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2025, 17:21:19 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
