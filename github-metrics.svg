@@ -1021,7 +1021,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectdiscovery/nuclei</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</div>
@@ -1166,7 +1166,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Sept 2025, 16:14:13 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 17:17:57 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
