@@ -816,7 +816,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matrix-org/matrix-js-sdk</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Matrix Client-Server SDK for JavaScript</div>
@@ -922,7 +922,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinJieLiu/mac-scrollbar</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrollbar React component with macOS style.</div>
@@ -975,7 +975,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinJieLiu/react-photo-view</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An exquisite React photo preview component.</div>
@@ -1173,7 +1173,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Sept 2025, 09:22:25 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2025, 10:18:47 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
