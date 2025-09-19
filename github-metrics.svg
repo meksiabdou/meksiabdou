@@ -817,7 +817,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matrix-org/matrix-js-sdk</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Matrix Client-Server SDK for JavaScript</div>
@@ -870,7 +870,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinJieLiu/validate-framework-utils</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some utils are used for validation</div>
@@ -923,7 +923,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinJieLiu/mac-scrollbar</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrollbar React component with macOS style.</div>
@@ -976,7 +976,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MinJieLiu/react-photo-view</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An exquisite React photo preview component.</div>
@@ -1174,7 +1174,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Sept 2025, 05:20:57 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2025, 06:16:35 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
