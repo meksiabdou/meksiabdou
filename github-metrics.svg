@@ -833,7 +833,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>etkecc/synapse-admin</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features</div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2025, 21:19:56 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 22:15:45 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
