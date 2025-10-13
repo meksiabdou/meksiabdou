@@ -849,7 +849,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pubkey/rxdb</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/</div>
@@ -902,7 +902,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>enzomanuelmangano/demos</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.</div>
@@ -1061,7 +1061,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>etkecc/synapse-admin</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features</div>
@@ -1147,7 +1147,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Oct 2025, 14:29:04 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Oct 2025, 15:18:49 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
