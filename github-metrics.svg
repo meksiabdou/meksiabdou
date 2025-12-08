@@ -921,7 +921,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maplibre/maplibre-react-native</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MapLibre React Native – Interactive vector tile maps with MapLibre Native in Expo and React Native supporting Android &amp; iOS.</div>
@@ -1021,7 +1021,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jamenamcinteer/react-native-vision-camera-ocr-plus</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native Vision Camera plugin for on-device text recognition (OCR) and translation using ML Kit. Maintained fork of react-native-vision-camera-text-recognition</div>
@@ -1213,7 +1213,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Dec 2025, 16:21:33 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2025, 17:26:32 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
