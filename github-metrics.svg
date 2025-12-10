@@ -923,7 +923,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maplibre/maplibre-react-native</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MapLibre React Native – Interactive vector tile maps with MapLibre Native in Expo and React Native supporting Android &amp; iOS.</div>
@@ -1215,7 +1215,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2025, 10:26:23 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2025, 11:22:42 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
