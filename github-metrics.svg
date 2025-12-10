@@ -923,7 +923,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minio/minio</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</div>
@@ -1076,7 +1076,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jamenamcinteer/react-native-vision-camera-ocr-plus</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native Vision Camera plugin for on-device text recognition (OCR) and translation using ML Kit. Maintained fork of react-native-vision-camera-text-recognition</div>
@@ -1215,7 +1215,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2025, 16:23:33 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2025, 17:26:37 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
