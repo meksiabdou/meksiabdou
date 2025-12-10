@@ -923,7 +923,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minio/minio</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</div>
@@ -1029,7 +1029,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phattran1201/react-native-thermal-printer</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">react native thermal printer</div>
@@ -1215,7 +1215,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2025, 13:41:22 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2025, 14:36:27 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
