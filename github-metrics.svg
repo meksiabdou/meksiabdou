@@ -519,7 +519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hainguyents13/mechvibes-dx</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MechvibesDX is an upgraded version of Mechvibes, rewritten from scratch in Rust using Dioxus.</div>
@@ -619,7 +619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sacmii/rn-vertical-slider</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native Vertical Slider</div>
@@ -831,7 +831,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jan 2026, 19:40:25 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2026, 20:30:49 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
