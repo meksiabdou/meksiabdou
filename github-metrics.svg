@@ -687,7 +687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattermost/react-native-paste-input</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Native TextInput replacement to allow pasting files</div>
@@ -740,7 +740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>margelo/react-native-nitro-sqlite</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💽 Fast SQLite library for React Native built using Nitro Modules</div>
@@ -793,7 +793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>margelo/react-native-nitro-fetch</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A super-fast network fetching library for React Native with prefetching support</div>
@@ -1031,7 +1031,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jun 2026, 06:04:15 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2026, 10:40:12 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
