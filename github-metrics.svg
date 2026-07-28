@@ -750,7 +750,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mongo-express/mongo-express</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web-based MongoDB admin interface, written with Node.js and Express</div>
@@ -803,7 +803,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radix-ui/primitives</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</div>
@@ -1068,7 +1068,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jul 2026, 10:35:19 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2026, 12:56:57 (timezone Africa/Algiers) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
